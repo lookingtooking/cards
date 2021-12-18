@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgb(235, 243, 230);
+    padding: 3%;
+}
+
+.title {
+    font: 100% Montserrat, sans-serif;
+}
+
+span {
+    background: rgb(196, 194, 194);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    letter-spacing: -3px;
+    padding: 0px 10px 0px 5px;
+}
+
+.block {
+    float: left;
+    margin: 0 5px 0 0;
+}
+
+.black {
+    color: black;
+}
+
+.red {
+    color: rgb(134, 37, 37);
+}
